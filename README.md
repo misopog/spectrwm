@@ -1,1 +1,4 @@
 # spectrwm
+
+
+zsh theme : minimal
